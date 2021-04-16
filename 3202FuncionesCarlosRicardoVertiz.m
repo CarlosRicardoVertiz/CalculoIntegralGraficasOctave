@@ -1,5 +1,5 @@
 % Titulo: Funciones.
-% Descripcion: Scrip para graficar y sacar dominio y rango de
+% Descripcion: Scrip para graficar: 
 %1) f1(x) = x² +3 si  ? (-5, ?)
 
 % Autor: Carlos Ricardo Vertiz
