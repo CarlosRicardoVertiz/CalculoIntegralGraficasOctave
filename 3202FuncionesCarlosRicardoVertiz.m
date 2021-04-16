@@ -1,6 +1,6 @@
 % Titulo: Funciones.
 % Descripcion: Scrip para graficar: 
-%1) f1(x) = x² +3 si  ? (-5, ?)
+%1) f1(x) = x² +3 si  pertenece (-5, infinito)
 
 % Autor: Carlos Ricardo Vertiz
 % Fecha: Jueves 15 de abril del 2021
