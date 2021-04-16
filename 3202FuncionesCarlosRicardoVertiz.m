@@ -1,4 +1,4 @@
-% Titulo: Funciones.
+% Titulo: modelos Matematicos
 % Descripcion: Scrip para graficar: 
 %1) f1(x) = x² +3 si  pertenece (-5, infinito)
 
