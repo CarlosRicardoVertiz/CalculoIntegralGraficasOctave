@@ -17,7 +17,7 @@ plot (f,C);
 %titulo
 title("C(f) =((f*5)/9)+32");
 %etiqueta para x
-xlabel ("Fahrenheit");
+xlabel ("Celsius");
 %etiqueta para y
-ylabel ("Celsius");
+ylabel ("Fahrenheit");
 
