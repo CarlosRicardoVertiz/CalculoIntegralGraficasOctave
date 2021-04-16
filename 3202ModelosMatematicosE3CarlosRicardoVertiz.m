@@ -1,6 +1,6 @@
 % Titulo: modelos Matematicos
 % Descripcion: Scrip para graficar: 
-%%3) f3 (x) = 5?2x, ¿-4 pertenece Rf2?, ¿-1/2 pertenece D?
+%%3) f3 (x) = nthroot(2*(x),5), ¿-4 pertenece Rf2?, ¿-1/2 pertenece D?
 % Autor: Carlos Ricardo Vertiz
 % Fecha: 15 de abril del 2021
 
@@ -15,7 +15,7 @@ y=nthroot(2*(x),5);
 % Dibujar x, y
 plot (x, y);
 % Titulo
-title ( "y=v(5&2x)" );
+title ( " f3 (x) = nthroot(2*(x),5)" );
 % Etiqueta para x
 xlabel ( " x " );
 % Etiqueta para y
