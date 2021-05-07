@@ -4,7 +4,7 @@
 %grupo: 3202
 
 % Titulo: 1.5 TEOREMA DE EXISTENCIA
-% Descripcion: grafica la funcion f(e^x),[0,4], ¿existe?
+% Descripcion: grafica la funcion f(x)=(e^x),[0,4], Â¿existe?
 
 % limpiar variables
 clear   
@@ -12,7 +12,7 @@ clear
 % Rango de 0 a 4
 e=2.718
 x = 0: 0.1 : 4;
-% Valor de la función 
+% Valor de la funciÃ³n 
 y=e.^x;
 % Dibujar x, y
 plot (x, y, "r"); 
